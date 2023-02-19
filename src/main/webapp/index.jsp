@@ -3,6 +3,9 @@
 <html>
 <head>
     <title>JSP - Hello World</title>
+
+    <link rel="stylesheet" href="golf_style.css">
+
 </head>
 <body>
 <h1><%= "GOLF SCORECARD" %>
